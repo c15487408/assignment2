@@ -10,8 +10,6 @@ https://www.youtube.com/watch?v=zDku1n5mnRw
 
 HOW TO RUN AND EXECUTE CMS:
 
-# How app works
-
 1. We clone the repo 
 
 git clone https://github.com/c15487408/assignment2.git
