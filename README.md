@@ -1,0 +1,9 @@
+assignment2
+Cloud Computing 
+Reyan Jaimon 
+C1548408
+DT228/3
+
+YOUTUBE LINK VIDEO DEMO:
+
+HOW TO RUN AND EXECUTE CMS:
